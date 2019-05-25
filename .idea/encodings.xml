@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/com/hlm/ftp/FTPClientFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/FtpPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/FtpTableModel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/local/LocalPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/queue/DownloadPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/queue/QueuePanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/hlm/ftp/utils/FtpClient.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
