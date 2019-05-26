@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8c6b969-5e1a-4726-98f5-b7e13e4d2584" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hlm/ftp/CutLinkAction.java" afterPath="$PROJECT_DIR$/src/com/hlm/ftp/CutLinkAction.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/DownThread.java" afterPath="$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/DownThread.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hlm/ftp/panel/queue/QueuePanel.java" afterPath="$PROJECT_DIR$/src/com/hlm/ftp/panel/queue/QueuePanel.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hlm/ftp/utils/FtpFile.java" afterPath="$PROJECT_DIR$/src/com/hlm/ftp/utils/FtpFile.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/hlm/ftp/utils/SiteInfoBean.java" afterPath="$PROJECT_DIR$/src/com/hlm/ftp/utils/SiteInfoBean.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,28 +31,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fileIcon.JPG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/res/fileIcon.JPG">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DiskFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/utils/DiskFile.java">
+      <file leaf-file-name="FTPMain.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/FTPMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
-              <folding />
+            <state relative-caret-position="250">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FTPMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/FTPMain.java">
+      <file leaf-file-name="DownAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/DownAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="100">
+              <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,6 +106,16 @@
                 <element signature="e#181#182#0" expanded="true" />
                 <element signature="e#198#199#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DownThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/DownThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -456,6 +455,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="ftp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FTPClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FTPClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -904,12 +917,12 @@
       <workItem from="1558801807805" duration="64000" />
       <workItem from="1558802128359" duration="27000" />
       <workItem from="1558805526754" duration="670000" />
-      <workItem from="1558855252417" duration="271000" />
+      <workItem from="1558855252417" duration="504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18958000" />
+    <option name="totallyTimeSpent" value="19191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -1049,24 +1062,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/DownAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/DownThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1243,11 +1238,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/FTPMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/DownAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="8" column="6" lean-forward="false" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hlm/ftp/panel/ftp/DownThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="24" column="29" lean-forward="true" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding />
         </state>
       </provider>
     </entry>
