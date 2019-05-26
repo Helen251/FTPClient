@@ -21,9 +21,6 @@ import javax.swing.Timer;
 import javax.swing.table.DefaultTableModel;
 
 
-/**
- * @author Li Zhong Wei 任务队列控制面板
- */
 public class QueuePanel extends JPanel implements ActionListener {
 	private JTable queueTable = new JTable(); // 显示任务队列的表格组件
 	private JScrollPane scrollPane = new JScrollPane();

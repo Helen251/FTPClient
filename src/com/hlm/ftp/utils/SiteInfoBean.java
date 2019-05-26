@@ -3,7 +3,7 @@ package com.hlm.ftp.utils;
 
 public class SiteInfoBean {
 	private String siteName; //
-	private String server; // ��������
+	private String server;
 	private String userName;
 	private int port; //
 	private String id; //
@@ -65,7 +65,7 @@ public class SiteInfoBean {
 
 	@Override
 	public String toString() {
-		return siteName; // �������ֵ����ʾ���б������
+		return siteName;
 	}
 
 	public String getId() {

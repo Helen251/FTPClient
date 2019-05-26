@@ -6,7 +6,7 @@ public class FtpFile implements FileInterface {
 	private String path = "";
 	protected boolean directory;
 	private boolean file;
-	private String lastDate; // ����޸�����
+	private String lastDate;
 	private String size;
 	private long longSize;
 	private final int GB = (int) Math.pow(1024, 3);
@@ -27,7 +27,7 @@ public class FtpFile implements FileInterface {
 	 * @param directory
 	 */
 	public FtpFile(String name, String path, boolean directory) {
-		this.name = name; // ��������
+		this.name = name;
 		this.path = path;
 		this.directory = directory;
 	}

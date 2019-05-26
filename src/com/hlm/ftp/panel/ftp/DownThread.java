@@ -11,11 +11,6 @@ import com.hlm.ftp.utils.FtpFile;
 import com.hlm.ftp.utils.ProgressArg;
 import sun.net.*;
 
-/**
- * FTP文件管理模块的FTP文件下载队列的线程
- *
- * @author Li Zhong Wei
- */
 public class DownThread extends Thread {
 	private final FtpPanel ftpPanel; // FTP资源管理面板
 	private final FtpClient ftpClient; // FTP控制类

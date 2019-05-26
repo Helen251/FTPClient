@@ -6,18 +6,9 @@ import javax.swing.AbstractAction;
 import javax.swing.Icon;
 
 class CutLinkAction extends AbstractAction {
-	private FTPClientFrame frame; // ����������ö���
+	private FTPClientFrame frame;
 
-	/**
-	 * ���췽��
-	 * 
-	 * @param client_Frame
-	 *            �����������
-	 * @param string
-	 *
-	 * @param icon
-	 *
-	 */
+
 	public CutLinkAction(FTPClientFrame client_Frame, String string, Icon icon) {
 		super(string, icon);
 		frame = client_Frame;
